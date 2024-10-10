@@ -1,0 +1,5 @@
+{
+    "prefix": "/",
+    "staffRoleName": "Staff",
+    "paginationTimeout": 60000
+}

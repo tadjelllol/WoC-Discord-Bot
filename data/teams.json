@@ -1,0 +1,14 @@
+{
+    "TeamA": {
+        "members": ["Alice", "Bob"],
+        "score": 100
+    },
+    "TeamB": {
+        "members": ["Charlie", "Dave"],
+        "score": 80
+    },
+    "TeamC": {
+        "members": ["Eve", "Frank"],
+        "score": 0
+    }
+}
